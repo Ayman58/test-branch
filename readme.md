@@ -5,4 +5,4 @@ git branch -d branch_name
 To list all tags
 git tag 
 
-test img.jpg
+C:\Users\Ayman\Desktop\testGit\task 2
